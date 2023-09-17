@@ -60,3 +60,4 @@ Bun: a fast JavaScript runtime, package manager, bundler and test runner. (1.0.2
 
 # Useful webistes:
 - [Bun](https://bun.sh)
+- [Bun quickstart](https://bun.sh/docs/quickstart)
