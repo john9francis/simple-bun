@@ -21,7 +21,7 @@ Bun is a:
 
 As of now, bun doesn't have all it's functionality on windows, it's only just a runtime. Since I'm on windows, I decided to run bun from a docker container to get all the functionality. Here are 9 simple steps to run bun in a [docker](https://www.docker.com/) container using vscode:
 
-1. Make sure you have the bun docker image installed. to do so, run `docker pull oven/bun`. Also make sure you have docker desktop open so that your container can run when it's ready.
+1. Make sure you have the bun docker image installed. to do so, run `docker pull oven/bun`.
 2. Get the "[Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)" extension provided by vscode
 3. In the bottom-left corner, click on the green symbol that kind of looks like this: [><]. 
 4. There should be an option that says, "run in container," click on that.
